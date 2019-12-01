@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tjohn1993.github.io/</loc>
+    <loc>http://trj.works/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tjohn1993.github.io/categories/</loc>
+    <loc>http://trj.works/categories/</loc>
   </url>
   
   <url>
-    <loc>https://tjohn1993.github.io/tags/</loc>
+    <loc>http://trj.works/tags/</loc>
   </url>
   
 </urlset>
