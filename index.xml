@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tim Johnson - Senior Software Developer</title>
-    <link>http://trj.works/</link>
+    <link>httpsls://trj.works/</link>
     <description>Recent content on Tim Johnson - Senior Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://trj.works/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="httpsls://trj.works/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

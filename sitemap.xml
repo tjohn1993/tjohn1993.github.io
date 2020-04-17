@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://trj.works/</loc>
+    <loc>httpsls://trj.works/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://trj.works/categories/</loc>
+    <loc>httpsls://trj.works/categories/</loc>
   </url>
   
   <url>
-    <loc>http://trj.works/tags/</loc>
+    <loc>httpsls://trj.works/tags/</loc>
   </url>
   
 </urlset>
